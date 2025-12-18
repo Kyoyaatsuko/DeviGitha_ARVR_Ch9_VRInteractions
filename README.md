@@ -1,6 +1,6 @@
 # VR Interactions Demo — Chapter 9  
 **Nama**: Devi Githa  
-**NIM**: [isi NIM]  
+**NIM**: 21552011322
 **Mata Kuliah**: Augmented & Virtual Reality  
 **Dosen**: Andri Nugraha R  
 **Unity Version**: 2022.3.20f1 (URP)  
